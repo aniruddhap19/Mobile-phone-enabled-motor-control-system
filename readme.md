@@ -3,5 +3,5 @@ made using the GSM module for arduino.
 
 
 
-NOTE:Replace the XXXXXXXXXX with the mobile number that will recieve the isntructions
+NOTE:Replace the XXXXXXXXXX with the mobile number that will recieve the instructions
 
